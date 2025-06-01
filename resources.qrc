@@ -1,0 +1,21 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>qml/components/MainMenu.qml</file>
+        <file>qml/components/SpaceHero.qml</file>
+        <file>qml/components/SpaceEnemy.qml</file>
+        <file>qml/components/PowerUp.qml</file>
+        <file>qml/components/Laser.qml</file>
+        <file>qml/components/Explosion.qml</file>
+        <file>qml/components/ScorePopup.qml</file>
+        <file>qml/components/GameMessage.qml</file>
+        <file>qml/components/Level.qml</file>
+        <file>qml/components/PauseMenu.qml</file>
+        <file>qml/components/Settings.qml</file>
+        <file>qml/components/GameOver.qml</file>
+        <file>qml/components/Victory.qml</file>
+        <file>qml/components/LevelSelect.qml</file>
+        <file>qml/components/Credits.qml</file>
+    </qresource>
+</RCC> 
